@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+<TextView
+android:id="@+id/product_Tv_product_description"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_margin="16dp"
+android:textColor="#000000"
+android:text="Vivo V19 is available in two colour variants - Piano Black and Mystic Silver. The smartphone is priced starting at Rs 27,990 for the 8 GB +128 GB variant, while the 8 GB + 256 GB memory variant is priced at Rs 31,990. The phone has a 6.44-inch LIV Super AMOLED FHD+ display which is made of the latest E3 OLED and has an aspect ratio of 20:9. The Dual iView display auto-adjusts to suit ambient light levels. It has screen brightness between 1.9nits to 800 nits. Powered by a Qualcomm Snapdragon 7 series processor the phone is backed by a 4500 mAh battery.
+Vivo had earlier launched the Vivo V17 in India which is available starting at Rs 21,870.
+
+Display
+
+It has a 6.44-inch full-HD+ display with 1,080 x 2,400 pixels resolution. It has a Super AMOLED hole-punch display with sixth-generation Corning Gorilla Glass for protection against scratches and bumps. The Vivo V19 has a quad rear camera setup which is placed on the top left corner of the phone in an L-shaped manner. 159.64x75.04x8.5mm and weighs 186.5 grams.
+
+Camera
+
+It has a 48 MP main shooter with f/1.79 aperture, a second 8 MP wide-angle camera with f/2.2 aperture, and two 2 MP cameras with f/2.4 aperture. The phone comes with features like super night mode, ultra-stable video, art portrait video, super macro, and bokeh portrait.
+
+The dual selfie camera setup is placed in a pill-shaped cut out which houses a 32 MP main camera and an 8 MP secondary camera. The front camera comes with features like super night selfie, super wide-angle selfie, ultra-stable video, and more." />
+
+</FrameLayout>

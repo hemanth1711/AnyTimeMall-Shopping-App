@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470026567791",
+    "firebase_url": "https://test-mall-app.firebaseio.com",
+    "project_id": "test-mall-app",
+    "storage_bucket": "test-mall-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470026567791:android:86a1152eca48a4ebc28d9a",
+        "android_client_info": {
+          "package_name": "com.bawp.testmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470026567791-4ml4lr8sp6n56g08t02fs57j2u3sucah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVv5zr5ctN2gggqyUUZAn304yVFUU-3As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470026567791-4ml4lr8sp6n56g08t02fs57j2u3sucah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
